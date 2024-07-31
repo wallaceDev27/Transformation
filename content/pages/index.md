@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/Snapinsta.app_452772482_796902252608547_8649598454470450068_n_1080.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
