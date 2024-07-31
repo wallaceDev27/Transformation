@@ -59,6 +59,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/Snapinsta.app_452772482_796902252608547_8649598454470450068_n_1080.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
