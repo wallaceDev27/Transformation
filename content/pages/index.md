@@ -50,15 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: >-
-        /images/Snapinsta.app_452772482_796902252608547_8649598454470450068_n_1080.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
